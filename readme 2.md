@@ -6,7 +6,7 @@ For submission of this challenge, touch a new file with the SQL statements you'v
 
 
 ### Select all rows from the `classes` table.
- <!-- select * from classes; -->
+ select * from classes;
 
 ### Select the `name` and `credits` from the `classes` table where the number of credits is greater than 3.
 <!-- select name_class, credits from classes where credits > 3; -->
